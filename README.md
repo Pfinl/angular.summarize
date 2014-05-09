@@ -16,4 +16,5 @@ Optional attributes:
 
 
 Remember, ng-model is required!
-example: <div pf-summarize ng-model="item"></div>
+
+example: &lt;div pf-summarize ng-model="item"&gt;&lt;/div&gt;
