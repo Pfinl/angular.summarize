@@ -67,6 +67,7 @@ pfApp.controller('ContentController', function($scope) {
 
     }
     return {
+        require:"ngModel",
         restrict: 'AE',
         replace: true,
         templateUrl: "template/summarize.html",
